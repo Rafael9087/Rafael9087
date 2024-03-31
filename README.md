@@ -11,5 +11,7 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
-![Rafael9087 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael9087&show_icons=true&theme=blue_navy&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael9087&layout=compact&theme=blue_navy)
+<div style="display: inline_block">
+    <img align="center" height=180em alt="stats" src="https://github-readme-stats.vercel.app/api?username=Rafael9087&show_icons=true&theme=blue_navy&count_private=true&rank_icon=github" />
+    <img align="center" height=180em alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael9087&layout=compact&theme=blue_navy" />
+</div><br/>
