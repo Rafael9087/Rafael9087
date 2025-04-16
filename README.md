@@ -1,6 +1,6 @@
 <img alt="wave" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=150&section=header" />
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=20B2AA&center=true&random=false&width=500&height=100&lines=Ol%C3%A1!+Eu+sou+o+Rafael;Tenho+21+anos" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=20B2AA&center=true&random=false&width=500&height=100&lines=Ol%C3%A1!+Eu+sou+o+Rafael;Tenho+22+anos" alt="Typing SVG" /></a>
 
 <h1 align="center"> Tecnologias que eu estudo 📚
 
