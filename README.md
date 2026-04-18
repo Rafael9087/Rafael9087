@@ -19,7 +19,7 @@
 </div><br/>
 
 <div align="center" style="display: inline_block">
-    <img align="center" height=180em alt="stats" src="https://github-readme-stats.vercel.app/api?username=Rafael9087&theme=transparent&rank_icon=github&title_color=20B2AA&color=E3E3E3&text_color=DEDEDE&hide_border=true&show_icons=true" />
+    <img align="center" height=180em alt="stats" src="https://github-readme-stats.vercel.app/api?username=Rafael9087&theme=transparent&rank_icon=github&title_color=20B2AA&color=E3E3E3&text_color=DEDEDE&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
     <img align="center" height=180em alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael9087&theme=transparent&title_color=20B2AA&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" />
 </div>
 
